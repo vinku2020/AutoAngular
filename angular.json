@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/icon-font.css",
               "src/styles.css"
             ],
             "scripts": []
